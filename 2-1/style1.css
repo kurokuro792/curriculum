@@ -4,6 +4,10 @@
     clear: both;
  }
 
+.wrapper {
+    margin: 0 auto;
+
+}
  
 
 .header {
