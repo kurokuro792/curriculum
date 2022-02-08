@@ -12,7 +12,7 @@
     }
 
     .footer {
-        width:150px;
+        width:250px;
         
     }
 
@@ -27,7 +27,7 @@
 
     .right {
         width:150px;
-        float:none;
+        clear:both;
         
     }
 
